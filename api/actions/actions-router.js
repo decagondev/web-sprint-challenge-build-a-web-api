@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const Action = require('./actions-model');
-const md = require('./actions-middleware');
+const md = require('./actions-middlware');
 
 router.get('/', async (req, res, next) => {
   try {

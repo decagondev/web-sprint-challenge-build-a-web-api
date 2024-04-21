@@ -76,7 +76,7 @@ Inside `api/actions/actions-router.js` build endpoints for performing CRUD opera
 
 ### Task 4: Build Middleware functions
 
-- [ ] Write at least two middleware functions for this API, and consume them in the proper places of your code.
+- [ x ] Write at least two middleware functions for this API, and consume them in the proper places of your code.
 
 ### Information on Database Schemas
 
